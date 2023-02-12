@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assingment_cendrol/static/css/main.238b6965.css",
+    "main.js": "/assingment_cendrol/static/js/main.7078e2f5.js",
+    "index.html": "/assingment_cendrol/index.html",
+    "main.238b6965.css.map": "/assingment_cendrol/static/css/main.238b6965.css.map",
+    "main.7078e2f5.js.map": "/assingment_cendrol/static/js/main.7078e2f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238b6965.css",
+    "static/js/main.7078e2f5.js"
+  ]
+}
